@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Edward
+Build-Jdk: 15
+Implementation-Title: LoggerProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.com.demo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/LoggerProject
+Created-By: Maven Integration for Eclipse
+
