@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-06T04:42:06.892041600Z</date>
+  <millis>1604637726892</millis>
+  <nanos>41600</nanos>
+  <sequence>4</sequence>
+  <logger>BelatrixLogger</logger>
+  <level>INFO</level>
+  <class>org.com.demo.logger.LoggerFile</class>
+  <method>addMessage</method>
+  <thread>1</thread>
+  <message>Test - Message Info </message>
+</record>
+<record>
+  <date>2020-11-06T04:42:06.908995900Z</date>
+  <millis>1604637726908</millis>
+  <nanos>995900</nanos>
+  <sequence>5</sequence>
+  <logger>BelatrixLogger</logger>
+  <level>INFO</level>
+  <class>org.com.demo.logger.LoggerFile</class>
+  <method>addMessage</method>
+  <thread>1</thread>
+  <message>Test Multiple - Message Info!</message>
+</record>
+<record>
+  <date>2020-11-06T04:42:06.935923300Z</date>
+  <millis>1604637726935</millis>
+  <nanos>923300</nanos>
+  <sequence>6</sequence>
+  <logger>BelatrixLogger</logger>
+  <level>WARNING</level>
+  <class>org.com.demo.logger.LoggerFile</class>
+  <method>addWarning</method>
+  <thread>1</thread>
+  <message>Test Multiple - Message Warning!</message>
+</record>
+</log>
